@@ -1,0 +1,52 @@
+*{
+    background-color: #e9e8e6;
+    text-decoration: none;
+    font-family: Impact;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+p{
+    text-indent: 20px;
+}
+
+.menu ul {
+  background: #D4E7EE;
+  padding: 0;
+
+}
+.menu li {
+  float: left;
+  list-style: none;
+
+}
+.menu a {
+  display: block;
+  padding: 1em;
+  border-right: 1px solid #ADC0CE;
+  background: rgba(173, 192, 206, .3);
+  color: #29838C;
+}
+
+.menu a:hover {
+    background: #ADC0CE
+}
+
+#main{
+    width: 100%;
+
+}
+
+#block{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.iframe{
+    border: 2px solid;
+}
+
+ a{
+  text-decoration: none;
+  transition: .5s linear;
+}
